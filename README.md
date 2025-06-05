@@ -32,4 +32,5 @@ Use analytics to understand the main causes of employee resignation and predict 
 - HR_Attrition_Model_Report.pdf
 - Attrition_Prevention_Suggestions.pdf
 - HR_Analytics_Dashboard.pbix
+- HR_Analytics_Final_Project_Report.pdf
 - README.txt
